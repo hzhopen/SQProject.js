@@ -1,0 +1,22 @@
+{
+  "name": "SQProject",
+  "version": "0.0.0",
+  "description": "SQ工程化项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "sqp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hzhopen/SQProject.js.git"
+  },
+  "keywords": [
+    "sqp.js"
+  ],
+  "author": " <hzhooome@gmail.com> (hanzh <hzhooome@gmail.com>)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hzhopen/SQProject.js/issues"
+  },
+  "homepage": "https://github.com/hzhopen/SQProject.js"
+}
